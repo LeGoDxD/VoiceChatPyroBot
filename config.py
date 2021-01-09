@@ -10,9 +10,7 @@ TOKEN = "1554977448:AAGqfAm3-6nfHHlouRFkHn1mz3Ov0Ahy3eo"
 
 # The IDs of the users which can stream, skip, pause and change volume
 SUDO_USERS = [
-    383407735,
-    951435494,
-    1392620345
+    1306234368
 ]
 
 # The ID of the group where your bot streams
